@@ -4,13 +4,15 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desarrollador web con React, Next.js, Angular 2 y Laravel
 ---------------------------------------------------------
 
-Saludos, soy un programador que trabaja principalmente con el framework Next.js y cuento con experiencia usando su libreria de componentes. Ademas de tener conocimientos en Angular, Laravel, Wordpress(Elementor y Gutenberg).
+Programador que trabaja principalmente con el framework Next.js y cuento con experiencia usando su libreria de componentes. Ademas de tener conocimientos en Angular, Laravel, Wordpress(Elementor y Gutenberg).
 
-*   🌍  Me ubico Maturin, Monagas
-*   ✉️  Puedes contactarme en [alfong12@gmail.com](mailto:alfong12@gmail.com)
-*   🤝  Estoy abierto a colaborar en projectos de React, Laravel y angular 
+*   🌍  Me recidencio Maturin, Monagas
+*   ✉️  Puedes contactarme con [alfong12@gmail.com](mailto:alfong12@gmail.com)
+*   🤝  Abierto a participar en projectos de React, Laravel y Angular
 
-###Skills 
+### Skills 
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -32,11 +34,16 @@ Saludos, soy un programador que trabaja principalmente con el framework Next.js 
 ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
-                      <a href="https://www.github.com/alfong12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/alfonzo-fong-7b85119b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/AlfonzoF12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/alfong12"><img src="https://github-readme-stats.vercel.app/api?username=alfong12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alfong12's GitHub stats" /></a><a href="https://github.com/alfong12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfong12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/alfong12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                        <a href="https://www.linkedin.com/in/alfonzo-fong-7b85119b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                        <a href="https://www.twitter.com/AlfonzoF12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Badges
+
+
+<b>My GitHub Stats</b>
+
+
+<a
+href="http://www.github.com/alfong12"><img src="https://github-readme-stats.vercel.app/api?username=alfong12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alfong12's GitHub stats" /></a>
