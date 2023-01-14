@@ -8,7 +8,9 @@ Saludos, soy un programador que trabaja principalmente con el framework Next.js 
 
 *   🌍  Me ubico Maturin, Monagas
 *   ✉️  Puedes contactarme en [alfong12@gmail.com](mailto:alfong12@gmail.com)
-*   🤝  Estoy abierto a colaborar en projectos de React, Laravel y angular projects### 
+*   🤝  Estoy abierto a colaborar en projectos de React, Laravel y angular 
+
+###Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,7 +29,7 @@ Saludos, soy un programador que trabaja principalmente con el framework Next.js 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
