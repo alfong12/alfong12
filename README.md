@@ -47,3 +47,14 @@ Programador que trabaja principalmente con el framework Next.js y cuento con exp
 
 <a
 href="http://www.github.com/alfong12"><img src="https://github-readme-stats.vercel.app/api?username=alfong12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alfong12's GitHub stats" /></a>
+
+
+### Portafolio
+
+<p align="left">
+  
+ - <a href="https://dalftec.com/" target="_blank" rel="noreferrer">https://dalftec.com</a> 
+ - <a href="https://family5.es/" target="_blank" rel="noreferrer">https://family5.es</a>
+ - <a href="https://inmobiliariametropolys.com/" target="_blank" rel="noreferrer">https://inmobiliariametropolys.com</a>
+  
+
